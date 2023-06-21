@@ -19,6 +19,14 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  table_calendar: ^3.0.2
+  firebase_core: ^2.14.0
+  firebase_auth: ^4.6.3
+  cloud_firestore: ^4.8.1
+  path_provider: ^2.0.15
+  http: 0.13.6
+  sqflite: ^2.2.8+4
+ 
 
 dev_dependencies:
   flutter_test:
